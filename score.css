@@ -37,7 +37,7 @@ header{
 
 
 body{
-  background-image:url("https://images.indianexpress.com/2026/05/ipl-2026-sixes.jpg?w=1600") ;
+  background-image:url("https://staticg.sportskeeda.com/editor/2025/04/757e5-17460324856013-1920.jpg") ;
   background-size: cover;
 
 }
@@ -53,14 +53,14 @@ body{
 
 .team1-logo img{
   height:120px;
-  background-color: #ea1a8e;
+  background-color: #ffea00;
 
 }
 
 .team1{
   display: flex;
   flex-direction: column;
-  background-color:#ea1a8e;
+  background-color: #ffea00;
   justify-content: space-between;
   width:500px;
 }
@@ -75,7 +75,7 @@ body{
   display: flex;
   flex-direction: row;
   align-content:center;
-  color: white;
+  color: black;
   font-size: 50px;
   margin-top: 10px;
   margin-left:120px;
@@ -87,7 +87,7 @@ body{
   display: flex;
   flex-direction: row;
   align-content: flex-end;
-  color: #412df9;
+  color: #2d62de;
   font-size: 57.5px;
   margin-left: 35px;
   margin-top: 2.5px;
@@ -101,7 +101,7 @@ body{
   margin-left: 40px;
   margin-bottom: 5px;
   font-size: 30px;
-  color: white;
+  color:black;
 
 }
 .row2{
@@ -117,13 +117,13 @@ body{
   margin-left: 50px;
   font-size: 25px;
  
-  color: whitesmoke;
+  color: black;
 
 
 }
 
 .team2-name{
-  color: whitesmoke;
+  color: black;
   font-size: 25px;
   
  
@@ -133,13 +133,13 @@ body{
 .team1-bat{
   display: flex;
   flex-direction: column;
-  background-color: #ea1a8e;
+  background-color:  #ffea00;
   width: 400px;
   justify-content: space-evenly;
   border-left:solid white 2px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 30px;
-  color: whitesmoke;
+  color:black;
 
 }
 
@@ -155,9 +155,9 @@ body{
   width: 50px;
   display: flex;
   flex-direction: column;
-  background-color: #ea1a8e;
+  background-color: #ffea00;
   font-size: 35px;
-  color: whitesmoke;
+  color: black;
   font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   justify-content: space-evenly;
 
@@ -167,9 +167,9 @@ body{
   width: 50px;
   display: flex;
   flex-direction: column;
-  background-color: #ea1a8e;
+  background-color: #ffea00;
   font-size: 25px;
-  color: whitesmoke;
+  color: black;
   font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   justify-content: space-evenly;
   border-right: solid white;
@@ -197,20 +197,20 @@ body{
 .team2{
   display: flex;
   
-  background-color:  #0B1A39;
+  background-color:  #DA1A32;
   width: 500px;
   
   border-left:solid white 2px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 30px;
-  color: whitesmoke;
-
+ 
 }
 
 .bowler-block {
   display: flex;
   flex-direction: column; 
-  gap: 5px;              
+  gap: 5px; 
+  color: white;             
 }
 .bowler{
   margin-left: 30px;
@@ -245,9 +245,9 @@ body{
 }
 
 .spell{
-  background-color:  #0B1A39;
+  background-color:  #DA1A32;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: whitesmoke;
+  color: white;
   display: flex;
   flex-direction: row;
   
@@ -265,7 +265,7 @@ body{
 }
 
 .team2-logo img{
-      height:120px; background-color: #0d3e94; 
+      height:120px; background-color: #DA1A32; 
 }
 
 
